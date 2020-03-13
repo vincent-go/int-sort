@@ -1,0 +1,1 @@
+Common algorithm for sorting slices without modify the input slice.
